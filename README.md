@@ -26,6 +26,12 @@
 
 **Артефакт:** [`leasing_payments_anonymized.xlsx`](./leasing_payments_anonymized.xlsx) — данные обезличены и изменены случайным коэффициентом для соблюдения конфиденциальности.
 
+**Визуализация:**
+
+![Динамика начислений по лизингам, 2017–2025](./images/leasing_dynamics_2017_2025.png)
+
+![Сводка по договорам и МВЗ](./images/leasing_summary_by_mvz.png)
+
 ## Контакты
 
 - Telegram: https://t.me/VolkovAY1411
